@@ -1,4 +1,3 @@
-asfstfszxdergsdtzxdxcvdsdzrxfc
 package saper;
 
 import java.util.Scanner;
